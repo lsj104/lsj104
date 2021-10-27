@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hailey%20Lim&fontSize=80&fontAlign=50&fontColor=FFFFFF)
 
-<h3 align="center"> Hi there👋 </h3>   
-<h3 align="center">:yellow_heart: I've lived in :yellow_heart:</h3>   
-<p align="center"><img width="3%" src="https://user-images.githubusercontent.com/75536654/129395969-e2152b64-c38f-45ec-9113-760b22ec12dc.png"/></p>  
-<h3 align="center"> :yellow_heart:I lived in :yellow_heart:</h3> 
-<p align="center"><img width="3%" src="https://user-images.githubusercontent.com/75536654/129395937-afa6462a-9a09-4578-be0e-df524b406afe.png"/><img width="3%" src="https://user-images.githubusercontent.com/75536654/129395972-8fd280f2-5e05-4a0d-8138-08b5a5c30b30.png"/></p>
 <p align="center"></p>   
 <h3 align="center">📚 Techology Stack 📚        
 <br/><br/>
