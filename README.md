@@ -2,7 +2,7 @@
 <p align="center"></p>   
 <h3 align="center"> Hi there 👋 
 <p align="center"></p>   
-<h3 align="center">📚 Techology Stack 📚        
+<h3 align="center">📚 Tech Stack 📚        
 <br/><br/>
 <p align="center">
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
