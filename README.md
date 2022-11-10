@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=EBDEF0&height=250&section=header&text=Hailey%20Lim&fontSize=80&fontAlign=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=AED6F1&height=250&section=header&text=Hailey%20Lim&fontSize=80&fontAlign=50&fontColor=FFFFFF)
 <p align="center"></p>   
 <h3 align="center"> Hi there 👋 
 <p align="center"></p>   
@@ -26,4 +26,4 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=EBDEF0&height=200&section=footer&text=%20&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=AED6F1&height=200&section=footer&text=%20&fontSize=90)
