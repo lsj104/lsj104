@@ -22,7 +22,7 @@
    <br/><br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsj104&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
     <br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsj104&show_icons=true&theme=flag-india)   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsj104&show_icons=true&theme=flag-india&count_private=true)   
 
 
 
