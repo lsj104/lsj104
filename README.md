@@ -1,16 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=AED6F1&height=250&section=header&text=SuJin%20Lim&fontSize=80&fontAlign=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=AED6F1&height=250&section=header&text=Soojin%20Lim&fontSize=80&fontAlign=50&fontColor=FFFFFF)
 <p align="center"></p>   
 <h3 align="center"> Hi there 👋 
 <p align="center"></p>   
 <h3 align="center">📚 Tech Stack 📚        
 <br/><br/>
 <p align="center">
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Java%20-007396.svg?&style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Jsp-E34F26?style=flat-square&logo=jsp&logoColor=white">
+<br>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <br/><br/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Java%20-007396.svg?&style=flat-square&logo=java&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"></a>
 
    
 
