@@ -6,8 +6,6 @@
 <br/><br/>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-
-<img src="https://img.shields.io/badge/Java%20-007396.svg?&style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Jsp-E34F26?style=for-the-badge&logo=Jsp&logoColor=white">
 <br>
