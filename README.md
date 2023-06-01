@@ -19,7 +19,7 @@
    
 </p>  
 :green_heart::green_heart::green_heart:<br/><br/>
-<a href="https://lsj104.github.io/"<img src="https://img.shields.io/badge/Portfolio-768CFF?style=for-the-badge&logo=Portfolio&logoColor=white&link=https://lsj104.github.io/"><br></br>
+<a href="https://lsj104.github.io/"><img src="https://img.shields.io/badge/Portfolio-768CFF?style=for-the-badge&logo=Portfolio&logoColor=white&link=https://lsj104.github.io/"></a><br></br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flsj104%2Fhit-counter&count_bg=%23F7CAD3&title_bg=%23FB8C32&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
    <br/><br/>
