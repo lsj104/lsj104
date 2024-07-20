@@ -24,9 +24,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flsj104%2Fhit-counter&count_bg=%23F7CAD3&title_bg=%23FB8C32&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
    <br/><br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsj104&langs_count=6&layout=compact&exclude_repo=database_project,TodoProject,boot-gongbang)](https://github.com/anuraghazra/github-readme-stats)   
-    <br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsj104&show_icons=true&theme=flag-india&count_private=true)   
-
+    <br/><br/> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsj104&count_private=true&show_icons=true&theme=flag-india)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=AED6F1&height=200&section=footer&text=%20&fontSize=90)
